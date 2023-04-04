@@ -1,6 +1,7 @@
 # DAGMA: Faster and more accurate structure learning with a log-det constraint
 
 Understand and re-implement the following paper:
+also create a new branch with additional functionality.
 
 [1] Bello K., Aragam B., Ravikumar P. (2022). [DAGMA: Learning DAGs via M-matrices and a Log-Determinant Acyclicity Characterization][dagma]. [NeurIPS'22](https://nips.cc/Conferences/2022/). 
 
